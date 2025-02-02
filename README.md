@@ -6,11 +6,11 @@ This analysis explores the top charts on the Netflix platform, and pitches a new
 
 ### Key Findings:
 * Top 10 TV Shows based on Hours Viewed (first 91 Days): 
-** Bridgerton ranked second globally highlighting its immense popularity and dedicated fans.
+* * Bridgerton ranked second globally highlighting its immense popularity and dedicated fans.
 * Weekly Ranks
- * Bridgerton has a sustained popularity over time, with a notable peak around the release of Queen Charlotte.
+* * Bridgerton has a sustained popularity over time, with a notable peak around the release of Queen Charlotte.
 * Spin Off Impact
- * The release of Queen Charlotte renewed interest in the original Bridgerton series, proving the value a spin off series has on increasing views.
+* * The release of Queen Charlotte renewed interest in the original Bridgerton series, proving the value a spin off series has on increasing views.
 
 ### Files:
 “most-popular-netflix.xlsx”
